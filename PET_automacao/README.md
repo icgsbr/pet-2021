@@ -1,4 +1,4 @@
-# PET Automação
+# (PT-BR) PET Automação
 
 * O computador deverá estar sempre ligado, caso precise ser desligado será necessário interromper o código
 * O programa irá atualizar as cotações na planilha a cada 30 min sempre
